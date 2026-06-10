@@ -1,0 +1,8 @@
+# Credenciales locales del DVR
+config.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
