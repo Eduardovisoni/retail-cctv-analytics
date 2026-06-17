@@ -1,6 +1,9 @@
 # Credenciales locales del DVR
 config.py
 
+# Pesos YOLO (se descargan automaticamente via ultralytics)
+*.pt
+
 # Python
 __pycache__/
 *.pyc
